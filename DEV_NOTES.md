@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved TODO items from previous session
 - Checked for memory leaks in long-running path
 - Consolidated duplicate helper functions
+
+## 2026-04-22
+- Resolved deprecation warnings
